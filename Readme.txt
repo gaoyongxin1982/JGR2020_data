@@ -1,0 +1,1 @@
+Data for plotting figures of JGR manuscript
